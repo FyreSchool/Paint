@@ -1,6 +1,5 @@
 # Overview
-This Program is a painting application that allows for basic drawings. This program has a few basic features that anyone that is drawing would like to have. That inculdes buttons for the basic colors as well as  
-a button for choosong custom colors. The other fetuares that this program has is an eraser and a clear button for when the user is done with the image and wants to start fresh. The last feture that I included in this program 
+This Program is a painting application that allows for basic drawings. This program has a few basic features that anyone that is drawing would like to have. That inculdes buttons for the basic colors as well as a button for choosong custom colors. The other fetuares that this program has is an eraser and a clear button for when the user is done with the image and wants to start fresh. The last feture that I included in this program 
 is a slider button that will change the size of the stroke when drawing. I had never programmed anything in Java before and this was a really fun first project to get an idea of what Java is capable of. 
 I would like to continue with this program as well as programing in Java as it was a language that I feel I could use for a wide range of applications. 
 
